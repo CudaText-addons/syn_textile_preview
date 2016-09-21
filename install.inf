@@ -1,0 +1,10 @@
+[info]
+title=Textile Preview
+desc=Previews Textile documents as HTML page in browser
+type=py-plugin
+subdir=syn_textile_preview
+
+[ini]
+section=Commands
+id=Textile Preview
+params=run;Textile
